@@ -2,18 +2,17 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 2.8.2
+version: 1.0.0
 apiversion: 2
 architectures: armv7 arm64 i386 x86_64
-description: External version of Map module
-author: Jeff Haynie, Jon Alter, & Pedro Enrique
-license: Apache Public License v2
-copyright: Copyright (c) 2013-2016 by Appcelerator, Inc.
-
+description: TiMap
+author: Justin Greer
+license: Specify your license
+copyright: 2020
 
 # these should not be edited
-name: map
-moduleid: ti.map
-guid: fee93b77-8eb3-418c-8f04-013664c4af83
+name: TiMap
+moduleid: Ti.Map
+guid: ec239a75-c82e-427c-85b9-669892bf9195
 platform: iphone
-minsdk: 5.1.0
+minsdk: 9.0.3.GA
