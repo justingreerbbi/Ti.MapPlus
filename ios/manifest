@@ -15,4 +15,4 @@ name: TiMap
 moduleid: Ti.Map
 guid: ec239a75-c82e-427c-85b9-669892bf9195
 platform: iphone
-minsdk: 9.0.3.GA
+minsdk: 8.3.0.GA
