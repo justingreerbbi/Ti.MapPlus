@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/justin/Documents/Appcelerator_Studio_Workspace/TiMap/ios/TiMap_Prefix.pch \
-  /Users/justin/Documents/Appcelerator_Studio_Workspace/TiMap/ios/Classes/TiMapModule.m \
-  /Users/justin/Documents/Appcelerator_Studio_Workspace/TiMap/ios/Classes/TiMapModule.h \
+  /Users/justin/Documents/repos/Ti.MapPlus/ios/TiMap_Prefix.pch \
+  /Users/justin/Documents/repos/Ti.MapPlus/ios/Classes/TiMapModule.m \
+  /Users/justin/Documents/repos/Ti.MapPlus/ios/Classes/TiMapModule.h \
   /Users/justin/Library/Application\ Support/Titanium/mobilesdk/osx/9.0.3.GA/iphone/include/TiModule.h \
   /Users/justin/Library/Application\ Support/Titanium/mobilesdk/osx/9.0.3.GA/iphone/Frameworks/TitaniumKit.framework/Modules/module.modulemap \
   /Users/justin/Library/Application\ Support/Titanium/mobilesdk/osx/9.0.3.GA/iphone/Frameworks/TitaniumKit.framework/Headers/Webcolor.h \
@@ -78,13 +78,13 @@ dependencies: \
   /Users/justin/Library/Application\ Support/Titanium/mobilesdk/osx/9.0.3.GA/iphone/Frameworks/TitaniumKit.framework/Headers/TiSharedConfig.h \
   /Users/justin/Library/Application\ Support/Titanium/mobilesdk/osx/9.0.3.GA/iphone/Frameworks/TitaniumKit.framework/Headers/TiBase.h \
   /Users/justin/Library/Application\ Support/Titanium/mobilesdk/osx/9.0.3.GA/iphone/Frameworks/TitaniumKit.framework/Headers/TitaniumKit.h \
-  /Users/justin/Documents/Appcelerator_Studio_Workspace/TiMap/ios/Classes/TiMapViewProxy.h \
+  /Users/justin/Documents/repos/Ti.MapPlus/ios/Classes/TiMapViewProxy.h \
   /Users/justin/Library/Application\ Support/Titanium/mobilesdk/osx/9.0.3.GA/iphone/include/TiViewProxy.h \
-  /Users/justin/Documents/Appcelerator_Studio_Workspace/TiMap/ios/Classes/TiMapAnnotationProxy.h \
+  /Users/justin/Documents/repos/Ti.MapPlus/ios/Classes/TiMapAnnotationProxy.h \
   /Users/justin/Library/Application\ Support/Titanium/mobilesdk/osx/9.0.3.GA/iphone/include/TiBase.h \
-  /Users/justin/Documents/Appcelerator_Studio_Workspace/TiMap/ios/Classes/TiMapPolygonProxy.h \
-  /Users/justin/Documents/Appcelerator_Studio_Workspace/TiMap/ios/Classes/TiMapCircleProxy.h \
-  /Users/justin/Documents/Appcelerator_Studio_Workspace/TiMap/ios/Classes/TiMapPolylineProxy.h \
-  /Users/justin/Documents/Appcelerator_Studio_Workspace/TiMap/ios/Classes/TiMapIOS7ViewProxy.h \
-  /Users/justin/Documents/Appcelerator_Studio_Workspace/TiMap/ios/Classes/TiMapCameraProxy.h \
+  /Users/justin/Documents/repos/Ti.MapPlus/ios/Classes/TiMapPolygonProxy.h \
+  /Users/justin/Documents/repos/Ti.MapPlus/ios/Classes/TiMapCircleProxy.h \
+  /Users/justin/Documents/repos/Ti.MapPlus/ios/Classes/TiMapPolylineProxy.h \
+  /Users/justin/Documents/repos/Ti.MapPlus/ios/Classes/TiMapIOS7ViewProxy.h \
+  /Users/justin/Documents/repos/Ti.MapPlus/ios/Classes/TiMapCameraProxy.h \
   /Users/justin/Library/Application\ Support/Titanium/mobilesdk/osx/9.0.3.GA/iphone/include/TiProxy.h

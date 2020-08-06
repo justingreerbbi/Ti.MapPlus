@@ -7,8 +7,6 @@
 	<buildSpec>
 	</buildSpec>
 	<natures>
-        <nature>org.eclipse.jdt.core.javanature</nature>
-        <nature>com.appcelerator.titanium.mobile.nature</nature>
-        <nature>com.appcelerator.titanium.mobile.module.nature</nature>
+		<nature>com.appcelerator.titanium.mobile.module.nature</nature>
 	</natures>
 </projectDescription>
